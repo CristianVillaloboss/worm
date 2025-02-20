@@ -1,0 +1,1 @@
+A terminal based game built using C++ and ncurses. Navigate the worm using WASD or HJKL controls, eat munchies to grow, and avoid collisions with walls and yourself. The game dynamically updates the score and ends when the worm crashes. Includes a customizable grid size (9x9 to 25x80). Escape with the ESC key.
